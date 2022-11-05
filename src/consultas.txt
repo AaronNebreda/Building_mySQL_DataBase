@@ -1,0 +1,2 @@
+select rental_id, rental_date, return_date, DATEDIFF(return_date,rental_date) as tiempo_entrega  
+FROM rental
