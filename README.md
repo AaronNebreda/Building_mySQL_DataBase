@@ -85,25 +85,43 @@ También con el módulo SQLAlchemy, se realizaron las 10 siguientes consultas ut
 
 1 - NÚMERO DE PELICULAS POR CATEGORÍA
 
+![q1](https://github.com/AaronNebreda/Building_mySQL_DataBase/blob/main/img/queries/query_1.JPG)
+
 2 - 5 PRIMEROS ACTORES CON MÁS PELÍCULAS
+
+![q2](https://github.com/AaronNebreda/Building_mySQL_DataBase/blob/main/img/queries/query_2.JPG)
 
 3 - PELIS DE ACCION O CIENCIA FICCION PARA TODOS LOS PUBLICOS QUE DUREN MENOS DE UNA HORA Y MEDIA
 
+![q3](https://github.com/AaronNebreda/Building_mySQL_DataBase/blob/main/img/queries/query_3.JPG)
+
 4 - LA MEDIA DE DURACIÓN DE LAS PELIS DE ANIMACIÓN Y NIÑOS
+
+![q4](https://github.com/AaronNebreda/Building_mySQL_DataBase/blob/main/img/queries/query_4.JPG)
 
 5 - LAS 15 PELIS MÁS ALQUILADAS
 
+![q5](https://github.com/AaronNebreda/Building_mySQL_DataBase/blob/main/img/queries/query_5.JPG)
+
 6 - PELI Y LISTA DE ACTORES QUE PARTICIPAN, DONDE HAYA MÁS DE 4 ACTORES
+
+![q6](https://github.com/AaronNebreda/Building_mySQL_DataBase/blob/main/img/queries/query_6.JPG)
 
 7 - NÚMERO DE EJEMPLARES DE CADA PELÍCULA EN CADA TIENDA Y CUANTAS ESTÁN ALQUILADAS
 
+![q7](https://github.com/AaronNebreda/Building_mySQL_DataBase/blob/main/img/queries/query_7.JPG)
+
 8 - CREAR UAN TABLA TEMPORAL CON LOS ALQUILERES Y UNA NUEVA COLUMNA QUE CALCULE EL TIEMPO DE ALQUILER
+
+![q8](https://github.com/AaronNebreda/Building_mySQL_DataBase/blob/main/img/queries/query_8.JPG)
 
 9 - ESTABLECER UNA PENALIZACIÓN SI EL ALQUILER REBASÓ LA DURACIÓN DE ALQUILER ESTABLECIDO POR PELÍCULA CON EL SIGUIENTE CÓDIGO 1 dentro del tiempo alquiler establecido 2 sobrepasa el tiempo de alquiler ESTOS CÓDIGOS SERÁN UN MULTIPLICADOR DEL PRECIO, ES DECIR, EL QUE SE PASE DEL TIEMPO PAGARÁ EL DOBLE (utilizaremos la tabla temporal creada en la consulta anterior)
 
+![q9](https://github.com/AaronNebreda/Building_mySQL_DataBase/blob/main/img/queries/query_9.JPG)
+
 10 - RECAUDACIÓN TOTAL
 
--->
+![q10](https://github.com/AaronNebreda/Building_mySQL_DataBase/blob/main/img/queries/query_10.JPG)
 
 
 
